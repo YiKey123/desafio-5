@@ -7,8 +7,11 @@
   }
   
   .price {
-    color: grey;
+    color: black;
     font-size: 22px;
+  }
+  h1{
+    color: black;
   }
   
   .card button {

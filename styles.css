@@ -111,7 +111,6 @@ ol{
       font-size: 25px;
       font-family: Georgia, "Times New Roman", Times, serif;
       border: 10px inset rgb(161, 49, 15);
-      color: rgb(12, 5, 53);
       
       padding: 10px 10px 10px 20px;
       margin: 10px;
@@ -137,6 +136,5 @@ ol{
       font-size: 15px;
       padding: 3px;
       width: 100%;
-      color: black;
     }
   }
